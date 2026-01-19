@@ -1,0 +1,9 @@
+
+{
+  "name": "Hisaab App: Digital Business Khata",
+  "description": "A mobile-first sales, expense, and credit tracking tool for small business owners in India.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
